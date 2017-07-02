@@ -5,7 +5,6 @@
 	<artifactId>performance-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RestApiTester</name>
-
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
